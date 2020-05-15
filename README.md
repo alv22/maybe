@@ -7,8 +7,6 @@ How to use:
 
 ```
 import 'maybe'
-// alternatively
-import maybe as 'maybe'
 
 [...]
 

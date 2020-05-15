@@ -8,7 +8,9 @@ How to use:
 ```
 import 'maybe'
 
-if (maybe) {
+[...]
+
+if (visible || maybe) {
   return true
 }
 ```

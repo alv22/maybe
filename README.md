@@ -11,7 +11,7 @@ import 'maybe'
 [...]
 
 if (visible || maybe) {
-  // Will it return true? Maybe!
+  // Will it return true? ...Maybe.
   return true
 }
 ```

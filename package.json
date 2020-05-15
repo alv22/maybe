@@ -1,0 +1,25 @@
+{
+  "name": "maybe",
+  "version": "1.0.0",
+  "description": "Is it true or false?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alv22/maybe.git"
+  },
+  "keywords": [
+    "true",
+    "false",
+    "maybe",
+    "boolean"
+  ],
+  "author": "Heikki Parkkonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alv22/maybe/issues"
+  },
+  "homepage": "https://github.com/alv22/maybe#readme"
+}

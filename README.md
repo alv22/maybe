@@ -1,6 +1,6 @@
-# maybe
+# maybe™
 
-Is it true or false?
+Is it true or false? ...maybe.
 
 
 How to use:
@@ -11,6 +11,7 @@ import 'maybe'
 [...]
 
 if (visible || maybe) {
+  // Will it return true or nothing? Maybe!
   return true
 }
 ```

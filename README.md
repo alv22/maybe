@@ -10,8 +10,8 @@ import 'maybe'
 
 [...]
 
-if (visible || maybe) {
-  // Will it return true? ...Maybe.
+if (maybe) {
+  // Will this return true? ...Maybe.
   return true
 }
 ```

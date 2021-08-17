@@ -20,7 +20,7 @@ if (everythingIsAlright || maybe) {
   oof();
 }
 
-// TODO: maybe(probably_not) && maybe(actually_yeah)
+// TODO: maybe('probably_not') && maybe('possibly')
 
 ```
 
